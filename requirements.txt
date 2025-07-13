@@ -1,0 +1,13 @@
+# Dependências para ferramentas GURPS
+# Para instalar: pip install -r requirements.txt
+
+# Bibliotecas padrão (já incluídas no Python)
+# random
+# math
+# argparse
+# json
+# csv
+
+# Bibliotecas externas (se necessário)
+# numpy>=1.19.0
+# pandas>=1.3.0 
